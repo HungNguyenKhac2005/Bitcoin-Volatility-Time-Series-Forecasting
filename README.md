@@ -278,7 +278,11 @@ Sau khi khởi chạy thành công, giao diện Dashboard sẽ tự động mở
 
 Dưới đây là video demo mô phỏng giao diện web dashboard và các luồng chạy trực quan của hệ thống:
 
-<video src="images/demo.mp4" controls style="max-width: 100%;"></video>
+
+
+
+
+
 
 ---
 
