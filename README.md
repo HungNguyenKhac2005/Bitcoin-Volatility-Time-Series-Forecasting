@@ -10,7 +10,7 @@
 
 ## 🌟 2. Tổng quan về dự án
 
-Đây là dự án phân tích dữ liệu chuỗi thời gian trong lĩnh vực Kinh tế và Tài chính, được nghiên cứu và phát triển trong khuôn khổ cuộc thi Nghiên cứu Khoa học Sinh viên thường niên tại trường Đại học năm học 2025 - 2026. Dự án đã xuất sắc đạt **giải Nhất** cấp Trường với số điểm **92/100**.
+Đây là dự án phân tích dữ liệu chuỗi thời gian trong lĩnh vực Kinh tế và Tài chính, được nghiên cứu và phát triển trong khuôn khổ cuộc thi Nghiên cứu Khoa học Sinh viên thường niên tại trường Đại học năm học 2025 - 2026. Dự án đã xuất sắc đạt **giải Nhất** với số điểm **92/100**.
 
 Dự án tập trung nghiên cứu và xây dựng 5 mô hình Học sâu (Deep Learning) hiện đại và mạnh mẽ nhất hiện nay: **LSTM, GRU, CNN, TFT** và **HYBRID (TRANSFORMER & GARCH)**. Qua quá trình thử nghiệm và so sánh kết quả thực nghiệm, nhóm nhận thấy mô hình lai **HYBRID (TRANSFORMER & GARCH)** mang lại độ chính xác vượt trội hơn hẳn so với 4 mô hình độc lập còn lại.
 
