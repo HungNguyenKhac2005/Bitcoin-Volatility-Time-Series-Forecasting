@@ -219,7 +219,7 @@ Dưới đây là phần so sánh định lượng và trực quan hóa kết qu
 - Biểu đồ cột thể hiện rõ ràng các chỉ số lỗi MAE, MSE và RMSE của 5 mô hình.
 - Mô hình lai **HYBRID** (màu đỏ) đạt giá trị thấp nhất ở tất cả các chỉ số lỗi. Cụ thể, chỉ số MSE của mô hình Hybrid chỉ đạt **0.0027** (giảm hơn một nửa so với GRU là **0.0089** và CNN là **0.0064**). Điều này chứng minh hiệu quả vượt trội khi kết hợp đặc trưng biến động chuỗi thời gian ngắn hạn từ GARCH với khả năng học các mối quan hệ xa của mô hình Transformer.
 
-#### 2. So sánh sai số phần phantom tuyệt đối trung bình (MAPE)
+#### 2. So sánh sai số phần trăm tuyệt đối trung bình (MAPE)
 
 <p align="center">
   <img src="images/MAPE.png" alt="Biểu đồ so sánh MAPE" />
@@ -278,9 +278,8 @@ Sau khi khởi chạy thành công, giao diện Dashboard sẽ tự động mở
 
 Dưới đây là video demo mô phỏng giao diện web dashboard và các luồng chạy trực quan của hệ thống:
 
-<p align="center">
-  <video src="images/demo.mp4" width="100%" controls="controls" poster="images/schema.png" muted></video>
-</p>
-<p align="center">
-  <em>Xem video demo cục bộ chất lượng cao trên máy tại: <a href="file:///C:/Python/Data_Science_Atifficial_Interligent/project_datascience%20_AI/Data_Analsys/Building_a_Hybrid_Machine_Learning_Model_for_Bitcoin_Volatility_Prediction_in_the_Global_Crypto_Market%20-%20Copy/images/demo.mp4">demo.mp4</a></em>
-</p>
+![Video Demo](images/demo.mp4)
+
+---
+
+_(Xem video demo cục bộ chất lượng cao trên máy tại: [demo.mp4](file:///C:/Python/Data_Science_Atifficial_Interligent/project_datascience%20_AI/Data_Analsys/Building_a_Hybrid_Machine_Learning_Model_for_Bitcoin_Volatility_Prediction_in_the_Global_Crypto_Market%20-%20Copy/images/demo.mp4))_
